@@ -1,5 +1,6 @@
 <?php
-namespace Database;
+
+namespace App\Database;
 
 class Connector {
 
